@@ -18,4 +18,4 @@
 
 TypeScript on React.js & Next.js | Tailwind CSS & Shadcn/UI | Node.js, tRPC, & RESTful OpenAPI 
 
-Adobe Illustrator | Affinity | Inkscape
+Figma | Adobe Illustrator | Affinity | Inkscape
