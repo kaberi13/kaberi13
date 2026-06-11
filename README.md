@@ -1,6 +1,6 @@
 [![Kaberi.png](https://i.postimg.cc/bwr8HSn3/Kaberi.png)](https://postimg.cc/Cz3Ww1mq)
 
-#Kaberi
+# Kaberi
 *Software Designer | B.Tech Computer Science (Batch of 2027)*
 
 ---
